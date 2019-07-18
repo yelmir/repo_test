@@ -1,1 +1,3 @@
-# repo_test
+# maven-project
+
+Simple Maven Project
